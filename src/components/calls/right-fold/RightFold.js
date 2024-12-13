@@ -3,7 +3,7 @@ import React from 'react'
 function RightFold() {
   return (
     <div>
-      This is RightFold
+      This is the Right side of the page
     </div>
   )
 }
